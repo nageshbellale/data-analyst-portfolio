@@ -3,8 +3,8 @@
 Started my journey into Data Analytics.
 
 ## Week 1
-- Built Excel dashboard using sales dataset
-- Practiced SQL queries (SELECT, WHERE, GROUP BY)
+- Built Excel dashboard analyzing sales data (Revenue, Category performance, Region trends)
+- Practiced SQL queries to analyze sales data (filtering, aggregation, grouping)
 
 ## Skills
 - Excel (Pivot Tables, Charts)
